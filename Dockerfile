@@ -10,3 +10,4 @@ CMD ["python3", "/app/main.py"]
 # Initial Dockerfile setup
 # Base image configuration
 # Working directory setup
+# Health check implementation
