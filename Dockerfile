@@ -11,3 +11,4 @@ CMD ["python3", "/app/main.py"]
 # Base image configuration
 # Working directory setup
 # Health check implementation
+# Dependency management
