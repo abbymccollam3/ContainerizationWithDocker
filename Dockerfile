@@ -12,3 +12,4 @@ CMD ["python3", "/app/main.py"]
 # Working directory setup
 # Health check implementation
 # Dependency management
+# Security configurations
