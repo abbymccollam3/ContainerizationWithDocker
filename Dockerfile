@@ -13,3 +13,4 @@ CMD ["python3", "/app/main.py"]
 # Health check implementation
 # Dependency management
 # Security configurations
+# Build context
