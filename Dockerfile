@@ -14,3 +14,4 @@ CMD ["python3", "/app/main.py"]
 # Dependency management
 # Security configurations
 # Build context
+# Cache optimization
