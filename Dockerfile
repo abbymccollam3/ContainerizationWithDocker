@@ -15,3 +15,4 @@ CMD ["python3", "/app/main.py"]
 # Security configurations
 # Build context
 # Cache optimization
+# Multi-stage builds
