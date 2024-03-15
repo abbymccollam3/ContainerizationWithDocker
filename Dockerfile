@@ -16,3 +16,4 @@ CMD ["python3", "/app/main.py"]
 # Build context
 # Cache optimization
 # Multi-stage builds
+# Production optimizations
