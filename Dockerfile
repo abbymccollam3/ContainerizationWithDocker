@@ -18,3 +18,4 @@ CMD ["python3", "/app/main.py"]
 # Multi-stage builds
 # Production optimizations
 # Cache layers
+# Volume permissions
