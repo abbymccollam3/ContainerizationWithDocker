@@ -19,3 +19,4 @@ CMD ["python3", "/app/main.py"]
 # Production optimizations
 # Cache layers
 # Volume permissions
+# Debug settings
