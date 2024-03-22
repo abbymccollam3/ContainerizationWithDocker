@@ -17,3 +17,4 @@ CMD ["python3", "/app/main.py"]
 # Cache optimization
 # Multi-stage builds
 # Production optimizations
+# Cache layers
